@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "大地のシンフォニー - Daichino Symphony",
+  "base_artist": "Elephant Kashimashi",
+  "createdAt": "2026-03-24T11:22:00.951955Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "大地のシンフォニー",
+      "artist": "エレファントカシマシ",
+      "has_synced": false,
+      "path": "select/pl_01_大地のシンフォニー_エレファントカシマシ.txt"
+    }
+  ]
+}
